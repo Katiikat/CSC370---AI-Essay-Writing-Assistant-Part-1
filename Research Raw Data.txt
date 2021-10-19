@@ -1,0 +1,8 @@
+
+
+Welcome to my very first AI!
+This Wiki Researching AI is quite simple to use.
+
+Simply enter in something you would like to research on Wikipedia.
+Press Enter and the AI will display that contents of the page you are researching.
+How cool is that!
